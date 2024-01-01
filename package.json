@@ -78,7 +78,7 @@
     "crypto-random-string": "^3.3.0",
     "date-fns": "^2.16.1",
     "eta": "^1.12.3",
-    "fast-jwt": "^2.1.0",
+    "fast-jwt": "^3.3.2",
     "fastify": "^4.1.0",
     "fastify-plugin": "^3.0.1",
     "filenamify": "^4.3.0",
